@@ -1,0 +1,15 @@
+# Blender MTL File: 'benchBLENDER.blend'
+# Material Count: 1
+
+newmtl Material.001
+Ns 359.999993
+Ka 1.000000 1.000000 1.000000
+Kd 0.800000 0.800000 0.800000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 2
+map_Bump -bm 0.000000 /Users/maksimpolovinkin/Desktop/Material.001_Normal_OpenGL.png
+map_Kd /Users/maksimpolovinkin/Desktop/Курсач КГ/grafika_laba4-master/OpenGLrememberProj/textures/texture.bmp
+map_Ns /Users/maksimpolovinkin/Desktop/Курсач КГ/grafika_laba4-master/OpenGLrememberProj/textures/Material.001_Roughness.bmp
